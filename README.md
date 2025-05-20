@@ -1,6 +1,6 @@
-# Texas Body Pro Website
+# Escobar Auto Repair & Body Shop Website
 
-A modern, responsive website for Texas Body Pro auto body shop.
+A modern, responsive website for Escobar Auto Repair & Body Shop.
 
 ## Features
 
